@@ -417,6 +417,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Z.SillySongApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -429,6 +430,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Z.SillySongApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -505,6 +507,7 @@
 				55B31BF11E1E17F600EC4F80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		55B31BF21E1E17F600EC4F80 /* Build configuration list for PBXNativeTarget "SillySongAppTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +516,7 @@
 				55B31BF41E1E17F600EC4F80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		55B31BF51E1E17F600EC4F80 /* Build configuration list for PBXNativeTarget "SillySongAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +525,7 @@
 				55B31BF71E1E17F600EC4F80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
